@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "You need to put the full path to the uv executable in the command field",
+      "args": [
+        "--directory",
+        "path of you project directory",
+        "run",
+        "weather.py"
+      ]
+    }
+  }
+}
